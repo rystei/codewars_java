@@ -1,0 +1,26 @@
+# Diretórios de build/output
+out/
+bin/
+dist/
+
+# Arquivos de configuração do IntelliJ
+.idea/
+*.iml
+
+# Arquivos do sistema operacional
+.DS_Store
+
+# Diretórios de dependências (Gradle, Maven)
+.gradle/
+.mvn/
+target/
+
+# Diretórios de logs/temporários
+logs/
+tmp/
+
+# Outros arquivos/diretórios ignorados
+/.mr-gradle/
+/monojack/private/
+/should/
+/noist/
